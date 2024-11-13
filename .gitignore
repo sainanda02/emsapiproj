@@ -1,0 +1,6 @@
+**/__pycache__/
+**/migrations/
+**/__init__.__pycache__
+**/asgi.py
+**/wsgi.py
+**/manage.py
