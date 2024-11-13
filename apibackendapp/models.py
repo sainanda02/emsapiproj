@@ -14,7 +14,7 @@ def create_auth_token(sender,instance=None,created=False,**kwargs):
 
 
 
-
+wonderful
 
 #create a department model class by inheriting the model class
 class Department(models.Model):
